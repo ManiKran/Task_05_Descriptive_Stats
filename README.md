@@ -22,7 +22,6 @@ We skipped pandas- and polars-based scripting for this research task and focused
 
 - `prompts.md` – Contains all analysis questions and full answers based on the dataset.
 - `Task_05_Data.pdf` (not included in repo) – Original dataset source.
-- `README.md` – This file.
 
 ---
 
@@ -51,7 +50,6 @@ We skipped pandas- and polars-based scripting for this research task and focused
 - Format: PDF
 - Public URL: [https://cuse.com](https://cuse.com) or directly from coaching staff / athletics website.
 
-> ⚠️ The PDF dataset should not be uploaded to GitHub. Link only.
 
 ---
 
@@ -72,5 +70,4 @@ Due Date: **July 31, 2025**
 ✅ Prompt Engineering  
 ✅ Summary File (`prompts.md`)  
 ✅ README File  
-❌ No pandas / polars scripting (intentionally skipped)
 
