@@ -5,7 +5,6 @@
 
 This project explores descriptive statistics on the **2025 Syracuse University Women’s Lacrosse team** using AI tools like ChatGPT to analyze and answer natural language questions. The dataset was extracted from a publicly available PDF and manually structured for analysis.
 
-We skipped pandas- and polars-based scripting for this research task and focused instead on **LLM-driven analysis using prompt engineering**.
 
 ---
 
@@ -48,18 +47,8 @@ We skipped pandas- and polars-based scripting for this research task and focused
 
 - Title: 2025 Syracuse University Women’s Lacrosse Team Stats
 - Format: PDF
-- Public URL: [https://cuse.com](https://cuse.com) or directly from coaching staff / athletics website.
+- Public URL: [https://cuse.com](https://cuse.com) 
 
-
----
-
-## 📬 Submission
-
-Submit your GitHub repo link (with `README.md` and `prompts.md`) to:
-
-**jrstrome@syr.edu**
-
-Due Date: **July 31, 2025**
 
 ---
 
