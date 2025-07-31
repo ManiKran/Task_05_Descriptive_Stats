@@ -47,7 +47,7 @@ This project explores descriptive statistics on the **2025 Syracuse University W
 
 - Title: 2025 Syracuse University Women’s Lacrosse Team Stats
 - Format: PDF
-- Public URL: [https://cuse.com]([https://cuse.com](https://cuse.com/sports/womens-lacrosse)) 
+- Public URL: [[https://cuse.com](https://cuse.com](https://cuse.com/sports/womens-lacrosse)] 
 
 
 ---
